@@ -43,34 +43,20 @@ Atualmente estou cursando **Engenharia de Software** e continuo desenvolvendo pr
 
 ---
 
-## 📊 GitHub
-
-<p>
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=vulgotaj&show_icons=true&hide_border=true"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulgotaj&layout=compact&hide_border=true"
-  />
-</p>
-
----
-
 ## 📫 Entre em contato
 
 Estou aberto a **oportunidades de estágio e desenvolvimento de software**.
 
 <p>
   <a href="https://www.linkedin.com/in/feltajima">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-profissional?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil_profissional-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://felipetajima.vercel.app">
-    <img src="https://img.shields.io/badge/Portfólio-Acessar-000000?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfólio-Acessar-0969DA?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
