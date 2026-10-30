@@ -1,10 +1,10 @@
 # Felipe Tajima
 
-### Desenvolvedor Front-End | React · Next.js · TypeScript
+### Desenvolvedor Full Stack | React · Next.js · Node.js · TypeScript
 
-Desenvolvo interfaces web com React, Next.js e TypeScript. Nos meus projetos de estudo, trabalho com integração de APIs, autenticação e persistência de dados.
+Desenvolvo aplicações web com React e Next.js no front-end e Node.js no back-end, usando TypeScript. Nos meus projetos de estudo, construo APIs REST e interfaces integradas, com autenticação e persistência de dados.
 
-**Busco minha primeira oportunidade profissional em desenvolvimento, com foco em estágio em Front-End.**
+**Busco minha primeira oportunidade profissional em desenvolvimento Full Stack, com foco em estágio.**
 
 <p>
   <a href="https://www.linkedin.com/in/feltajima">
